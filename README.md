@@ -1,5 +1,5 @@
 # Blogpost
- [October 21st (2019)]
+[October 21st (2019)]
 <p>1]Today i learned about javascript</p>
 
 <p>2]working on homework</p>
@@ -37,6 +37,85 @@ this week i got a point :)</p>
 <p>4]Eatting is what keeps me from doing work</p>
 
 <p>[ October 28th (2019)]</p>
+
+<p>1]finished up my FooBar and did javascript </p>
+
+<p>2]And now we're going in to a project called cats and dogs</p>
+
+<p>3]i learned Node
+[Native and host objects]
+
+Strings
+Array 
+Data
+Math
+
+[Host objects]
+Window 
+Documents
+History
+XMLHttpRequest
+
+[Node.js Host Objects]
+</p>
+
+<p>
+[V8]
+Http
+Https
+Fs
+Url
+Os
+
+[Node.js Environment]</p>
+
+<p>[October 28th (2019)]</p>
+
+<p>[Classes]
+(Constructor method are a factory)
+Class pet{
+constructor(animal){
+	This.animal = animal;
+	This.breed = breed;
+	This.age = age; 
+This.sound = sound;
+</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
 
 <p>1]finished up my FooBar and did javascript </p>
 
