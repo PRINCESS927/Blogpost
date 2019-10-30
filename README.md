@@ -81,41 +81,9 @@ constructor(animal){
 This.sound = sound;
 </p>
 
-<p></p>
+<p>[October 30th (2019)]</p>
 
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
+<p>1]learned how to create a server, made a virtul pet project 
 
 <p>1]finished up my FooBar and did javascript </p>
 
