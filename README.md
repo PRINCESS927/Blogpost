@@ -1,5 +1,4 @@
-# Blogpost
- [October 21st (2019)]
+# [October 21st (2019)]
 <p>1]Today i learned about javascript</p>
 
 <p>2]working on homework</p>
@@ -85,8 +84,34 @@ This.sound = sound;
 
 <p>1]learned how to create a server, made a virtul pet project </p>
 
-<p>{October(2019)}</p>
+<p>[October(2019)]</p>
 
 <p>1]Today was about making an app called WebNow to tell you weather in the city you're in </p>
 
 <p>2]learned about (.container, .ghost-inputs, .p tag) </p>
+
+<p>[November 5th(2019)]</p>
+
+<p>made an app the gives you the weather on what city you are in </p>
+
+<p>learned more about require, .Environment, body parser</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
