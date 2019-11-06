@@ -1,5 +1,5 @@
 # [October 21st (2019)]
-[October 21st (2019)]
+	[October 21st (2019)]
 	<p>1]Today i learned about javascript</p>
 
 	<p>2]working on homework</p>
@@ -99,7 +99,7 @@
 
 	<p>[November 6th(2019)]</p>
 
-	<p>1]we got assigned partners to work on making our own app.js.I got paired with alex and he has a greate idea on making a facial reqconition </p>
+	<p>1]we got assigned partners to to work on making our own app.js.I got paired with alex and he has a greate idea on making a facial reqconition </p>
 
 	<p></p>
 
@@ -110,6 +110,13 @@
 	<p></p>
 
 	<p></p>
+
+	<p></p>
+
+	<p></p>
+
+	<p></p>
+
 
 	<p></p>
 
