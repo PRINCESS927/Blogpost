@@ -101,9 +101,9 @@
 
 	<p>1]we got assigned partners to to work on making our own app.js.I got paired with alex and he has a greate idea on making a facial reqconition </p>
 
-	<p></p>
+	<p>[November 12th(2019)]</p>
 
-	<p></p>
+	<p>made another app.js for "ninjas" and where working more on the editing part of the app like how it looks</p>
 
 	<p></p>
 
