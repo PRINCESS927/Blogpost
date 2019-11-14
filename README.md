@@ -105,9 +105,9 @@
 
 	<p>made another app.js for "ninjas" and where working more on the editing part of the app like how it looks</p>
 
-	<p></p>
+	<p>[November 13th(2019)]</p>
 
-	<p></p>
+	<p>Finished the app project but i still need to factor in the math and the input of the photos </p>
 
 	<p></p>
 
