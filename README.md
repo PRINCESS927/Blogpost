@@ -103,20 +103,19 @@
 
 	<p>[November 12th(2019)]</p>
 
-	<p>made another app.js for "ninjas" and where working more on the editing part of the app like how it looks</p>
+	<p>1]made another app.js for "ninjas" and where working more on the editing part of the app like how it looks</p>
 
 	<p>[November 13th(2019)]</p>
 
-	<p>Finished the app project but i still need to factor in the math and the input of the photos </p>
+	<p>1]Finished the app project but i still need to factor in the math and the input of the photos </p>
+
+	<p>[November 14th(2019)]</p>
+
+	<p>1]learning about data types and making our servers</p>
 
 	<p></p>
 
 	<p></p>
-
-	<p></p>
-
-	<p></p>
-
 
 	<p></p>
 
