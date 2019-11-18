@@ -113,9 +113,9 @@
 
 	<p>1]learning about data types and making our servers</p>
 
-	<p></p>
+	<p>[November 18th(2019)</p>
 
-	<p></p>
+	<p>working more in ninjs-Tasker. my group project is to make a website my group is woring on a cheat code app for differnet games and consoles </p>
 
 	<p></p>
 
