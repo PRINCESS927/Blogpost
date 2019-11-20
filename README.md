@@ -117,9 +117,26 @@
 
 	<p>working more in ninjs-Tasker. my group project is to make a website my group is woring on a cheat code app for differnet games and consoles </p>
 
-	<p></p>
+	<p>[November 20th(2019)]</p>
+
+	<p>Finally finished niija-Tasker still have stuff to fix in it. this is the last week of code sckool and our last project is a cheat hub app for all most gaming consoles </p>
 
 	<p></p>
 
 	<p></p>
-
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
+	
+	<p></p>
